@@ -1,0 +1,29 @@
+{
+  "name": "freecode-timestamp-microservice",
+  "version": "0.0.2",
+  "description": "https://www.freecodecamp.com/challenges/timestamp-microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-useragent": "^1.0.7",
+    "is-url": "^1.2.2",
+    "mongodb": "^2.2.30",
+    "google-images": "^2.1.0"
+  },
+  "engines": {
+    "node": "8.1.x"
+  },
+  "repository": {
+    "url": "https://github.com/TogusaRusso/freecode-timestamp-microservice"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "freecode-camp"
+  ]
+}
