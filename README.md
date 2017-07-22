@@ -11,12 +11,3 @@
 <https://pattern-transport.glitch.me/api/imagesearch/lolcats%20funny?offset=10>
 
 <https://pattern-transport.glitch.me/api/latest/imagesearch>
-
-## Example output
-
-```javascript
-  {
-    original_url: "https://tproger.ru/translations/building-messenger/",
-    short_url: "https://complete-hair.glitch.me/1"
-  }
-```
